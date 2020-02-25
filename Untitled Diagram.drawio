@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-25T20:17:14.016Z" agent="Mozilla/5.0 (X11; CrOS x86_64 12871.17.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.25 Safari/537.36" etag="6zwPX4M74iMtPvBXrCGV" version="12.7.6" type="github">
+<mxfile host="www.draw.io" modified="2020-02-25T20:17:55.829Z" agent="Mozilla/5.0 (X11; CrOS x86_64 12871.17.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.25 Safari/537.36" etag="NVigKtatlp7TErnxV7mk" version="12.7.6" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1242" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ectmuxKpsUtfzrgErM18-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/30-hardware-line-icons/64/Laptop-128.png" parent="1c1d494c118603dd-3" vertex="1">
-          <mxGeometry x="20" y="60" width="80" height="80" as="geometry" />
+          <mxGeometry x="10" y="60" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WMLOzg9VNRrppRdaXAKQ-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.misc.mail2;strokeColor=#999999;" vertex="1" parent="1c1d494c118603dd-3">
           <mxGeometry x="135" y="82.5" width="70" height="35" as="geometry" />

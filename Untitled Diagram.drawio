@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-25T19:49:25.021Z" agent="Mozilla/5.0 (X11; CrOS x86_64 12871.17.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.25 Safari/537.36" etag="TL5Ptfb0_cAdZ6Q7F0kr" version="12.7.6" type="github">
+<mxfile host="www.draw.io" modified="2020-02-25T20:05:52.065Z" agent="Mozilla/5.0 (X11; CrOS x86_64 12871.17.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.25 Safari/537.36" etag="f5QErV04lyVtqzfquawM" version="12.7.6" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="905" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="509" dy="288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="1c1d494c118603dd-2" value="Food.aero Manager" style="swimlane;html=1;startSize=20;" parent="1c1d494c118603dd-1" vertex="1">
           <mxGeometry y="20" width="250" height="970" as="geometry" />
+        </mxCell>
+        <mxCell id="ectmuxKpsUtfzrgErM18-3" value="MySQL DB &#xa;instance" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mysql_db_instance;" vertex="1" parent="1c1d494c118603dd-2">
+          <mxGeometry x="180" y="180" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1c1d494c118603dd-3" value="Broker | FA | Crew" style="swimlane;html=1;startSize=20;" parent="1c1d494c118603dd-1" vertex="1">
           <mxGeometry x="250" y="20" width="250" height="970" as="geometry" />
@@ -23,7 +26,7 @@
           <mxGeometry x="40" y="648" width="105" height="55" as="geometry" />
         </mxCell>
         <mxCell id="ectmuxKpsUtfzrgErM18-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/30-hardware-line-icons/64/Laptop-128.png" vertex="1" parent="1c1d494c118603dd-3">
-          <mxGeometry x="25" y="80" width="60" height="60" as="geometry" />
+          <mxGeometry x="10" y="60" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1c1d494c118603dd-4" value="Vendor" style="swimlane;html=1;startSize=20;" parent="1c1d494c118603dd-1" vertex="1">
           <mxGeometry x="500" y="20" width="250" height="970" as="geometry" />
@@ -69,6 +72,9 @@
         </mxCell>
         <mxCell id="1c1d494c118603dd-55" style="edgeStyle=none;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=oval;endFill=0;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1c1d494c118603dd-1" source="1c1d494c118603dd-24" target="1c1d494c118603dd-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ectmuxKpsUtfzrgErM18-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;b&gt;Object:request&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;status = string.created&lt;br&gt;amount = var.amount&lt;br&gt;pax = string.&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="100" width="100" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
